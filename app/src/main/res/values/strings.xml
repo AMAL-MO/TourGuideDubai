@@ -1,0 +1,117 @@
+ <resources>
+    <string name="app_name">DubaiTourGuide</string>
+
+     <string name="category_Adventures">Adventures</string>
+     <string name="category_Restaurants">Restaurants</string>
+     <string name="category_Shops">Shops</string>
+     <string name="category_ThemeParks">Theme Parks</string>
+
+
+
+    <string name="placeName">Skydiving </string>
+    <string name="Description">Soar like a bird over one of the most spectacular drop zones in the world with Skydive Dubai
+        the leading diving company in the emirate.
+Step out of a plane at an altitude of almost 4,000 metres and enjoy the rush of the wind.
+        The whole experience is a full-scale immersion of the senses.
+    </string>
+    <string name="AddressName">Palm Jumeirah  </string>
+    <string name="phoneName"> +971[0] 4 377 8888   </string>
+
+
+
+    <string name="placeName2">Sailing and Watersports </string>
+    <string name="Description2">l Wasl Charter and Fishing
+        specialises in a variety of deep sea fishing trips, dhow trips and luxury yacht charters with a fleet of modern vessels. The firm syachts come in all shapes and sizes, complete with stringent safety checks an approved skipper and trained crew. </string>
+    <string name="AddressName2"> Al Owais Building, E11 Shk Rashid Rd, Port Saeed, Deira   </string>
+    <string name="phoneName2">  +971 [0] 4 295 9477   </string>
+
+
+
+    <string name="placeName3">Summer desert safaris  </string>
+    <string name="Description3">Desert adventures can be enjoyed all year long,
+        with a summer safari offering an appeal all of its own. For one thing, it’s cooler in the middle of the desert (in the evenings) than it is in the city. The low humidity and ground water levels in the desert mean that the daytime heat isn’t retained once the sun goes down,
+        leaving it up to seven degrees cooler than metro areas.  </string>
+    <string name="AddressName3">  Oasis Centre, Al Waha St, Al Qouz 1, Hadaeq Mohammed Bin Rashid   </string>
+    <string name="phoneName3">   +971 [0] 4 388 4044  </string>
+
+
+
+    <string name="placeName4">Water Activities   </string>
+    <string name="Description4">The world’s largest man-made island is also home to Atlantis The Palm’s waterpark, Aquaventure. While the high-speed water slides and wave pool keep kids-at-heart happy, it’s the immersive underwater experiences that set this waterpark apart from the rest. Don a bubble helmet,
+        and sink to the bottom of Aquaventure’s Shark Lagoon tank for a stroll amongst tropical fish, manta rays and, yes, sharks.  </string>
+    <string name="AddressName4"> Atlantis The Palm </string>
+    <string name="phoneName4">   +9714 426 0000  </string>
+
+
+
+     <string name="placeName5">The Dubai Mall  </string>
+     <string name="Description5">If you are devoted to shopping, you will find retail heaven takes the form of The Dubai Mall.
+         Located at the foot of the Burj Khalifa and stretching across 1.1 million sq/m, it is the world largest shopping, entertainment, and leisure destination  </string>
+     <string name="AddressName5"> Financial Center St, Burj Khalifa, Zaa beel </string>
+     <string name="phoneName5">   +9714 426 0077  </string>
+
+
+
+     <string name="placeName6">Mall Of The Emirates  </string>
+     <string name="Description6">Considered the world first shopping resort, Mall of the Emirates boasts more than 560 international shops selling lifestyle, fashion, sports, electronics and home furnishing products, including more than 80 global fashion powerhouses located in the Fashion Dome and Via Rodeo areas alone  </string>
+     <string name="AddressName6"> E11 Shk Zayed Rd, Al Barsha 1, Hadaeq Mohammed Bin Rashid  </string>
+     <string name="phoneName6">   +9714 888 0077  </string>
+
+
+
+     <string name="placeName7">The Walk at Jumeirah Beach Residence </string>
+     <string name="Description7">If you are looking for stylish boutiques, al fresco dining or simply a leisurely promenade along the waterfront, head to The Walk at Jumeirah Beach Residences. </string>
+     <string name="AddressName7">  Al Mamsha St, Marsa Dubai, Jumeira  </string>
+     <string name="phoneName7">   +971 [0] 4 390 0091  </string>
+
+
+     <string name="placeName8">Alto Mar  </string>
+     <string name="Description8">When you’re located as close to the sea as Alto Mar is – right by the Jumeirah Fishing Harbour
+         – you know the seafood is going to be fresh. At this Mediterranean style restaurant, it is also delicious. </string>
+     <string name="AddressName8"> 180 4 C Street, Jumeirah Fishing Harbour  </string>
+     <string name="phoneName8">   +971 [0] 0 990 0091  </string>
+
+
+     <string name="placeName9">La Môme Dubai  </string>
+     <string name="Description9">La Môme celebrates the art of traditional
+         French dining, with an ambience that is a modern throwback to 1950s Paris </string>
+     <string name="AddressName9">  Nassima Royal Hotel   </string>
+     <string name="phoneName9">   +971 4 308 0470   </string>
+
+
+     <string name="placeName10">Pierchic  </string>
+     <string name="Description10">Pier? Tick. Chic? Double tick. This landmark seaside restaurant at the tip of Al Qasr’s jetty enjoys front row seats to the sun setting into the Arabian Gulf.
+         Savour a seafood-focused menu complete with delicate ceviche, oysters and an impressive whole catch of the day for two </string>
+     <string name="AddressName10"> Al Qasr, Madinat Jumeirah   </string>
+     <string name="phoneName10">   +971 [0] 4 090 0561  </string>
+
+
+     <string name="placeName11">Catch Dubai </string>
+     <string name="Description11">The Dubai outpost of a renowned NYC brand, Catch is stylish seafood at its best. Retaining the contemporary American vibe, the space matches industrial-luxe décor with an eclectic menu – ranging from innovative sushi (foie gras eel roll, anyone?) to king fish tacos </string>
+     <string name="AddressName11"> Level 1, Fairmont Dubai, Sheikh Zayed Road  </string>
+     <string name="phoneName11">   +971 [0] 4 300 0891  </string>
+
+
+
+     <string name="placeName12">Motiongate Dubai  </string>
+     <string name="Description12">A blockbuster in its own right, this Hollywood-inspired adventure land, features 27 rides inspired by 13 memorable action and animation films, including The Ghostbusters,
+         Shrek and The Hunger Games. </string>
+     <string name="AddressName12"> Sheikh Zayed Road, Opposite Palm Jebel Ali  </string>
+     <string name="phoneName12">   +971 [0] 3 455 0991  </string>
+
+
+
+     <string name="placeName13">Legoland Dubai  </string>
+     <string name="Description13">Explore a world where the Lego brick comes to life at Legoland Dubai. Ideal for families with children aged two to 12, there are more than 40 rides and 15,000 Lego models,
+         with many attractions requiring kids to use teamwork and apply their skills to steer a boat or drive a cars </string>
+     <string name="AddressName13"> Level 1, Fairmont Dubai, Sheikh Zayed Road  </string>
+     <string name="phoneName13">   +971 [0] 4 300 0891  </string>
+
+
+
+     <string name="placeName14">Bollywood Parks </string>
+     <string name="Description14">Dubai ticks off another world first with this theme park dedicated to India vibrant Bollywood film industry. The park features more than 16 cinematic rides and attractions, 20 live shows across five different stages,
+         Indian dining and five zones including Bollywood Boulevard and Mumbai Chowk.  </string>
+     <string name="AddressName14"> Level 1, Fairmont Dubai, Sheikh Zayed Road  </string>
+     <string name="phoneName14">   +971 [0] 4 300 0891  </string>
+</resources>
